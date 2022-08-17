@@ -1,2 +1,2 @@
-# AzureFunctionBasicAuthenticationWithOpenApi-
+# AzureFunctionBasicAuthenticationWithOpenApi
 # Salman4018-AzureFunctionBasicAuthenticationWithOpenApi
